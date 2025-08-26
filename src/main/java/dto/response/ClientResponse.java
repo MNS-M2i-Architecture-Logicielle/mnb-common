@@ -2,7 +2,7 @@ package dto.response;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
-import org.example.mnb.domain.Account;
+import model.Account;
 
 import java.util.List;
 
